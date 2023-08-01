@@ -1,0 +1,17 @@
+body {
+    background-color: springgreen;
+}
+
+#pontuacao {
+    font-size: medium;
+}
+
+#tempo {
+    font-size: medium;
+    float: right;
+    margin-right: auto;
+}
+
+#esbocopedido {
+    color: red;
+}
